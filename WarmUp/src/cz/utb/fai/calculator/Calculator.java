@@ -19,5 +19,7 @@ public interface Calculator {
 
     public float square();
 
+    public float calcEqual();
+
     public String getOperations();
 }
