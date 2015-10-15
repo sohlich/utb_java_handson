@@ -24,3 +24,6 @@ hs_err_pid*
 
 /FirstApplication/nbproject/private/
 /FirstApplication/build/
+/ChatClient/nbproject/private/
+/ChatClient/build/
+/ChatClient/dist/

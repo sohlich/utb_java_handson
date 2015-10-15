@@ -123,4 +123,9 @@ public class MyProcessor implements Processor {
         return result;
     }
 
+    @Override
+    public String toString() {
+        return "MyProcessor{" + '}';
+    }
+
 }

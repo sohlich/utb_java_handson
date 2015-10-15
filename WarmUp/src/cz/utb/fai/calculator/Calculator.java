@@ -22,4 +22,5 @@ public interface Calculator {
     public float calcEqual();
 
     public String getOperations();
+
 }
