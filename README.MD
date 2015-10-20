@@ -23,3 +23,15 @@ Radek
 27
 Zlin
 *****************
+
+
+#WarmUp
+The WarmUp project contains some sample Class and Interface definitions to implement. As part of project there are unit tests that verifies the implementation is OK. Try to use as much as possible of flow control mechanisms.
+
+
+#ChatClient
+The implementation of console chat client for project [UTB Chat Server](https://github.com/sohlich/utb_chat_server) that was running as server side. To deploy the server localy use GO 1.5.
+
+
+
+
