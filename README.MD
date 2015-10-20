@@ -10,19 +10,19 @@ The application should ask for your credentials and after it obtains all informa
 out the information in formatted output.
 
 
-Example:
-Ahoj jak se jmenujes?
-Radek
-V kterem roce jsi se narodil?
-1988
-Kde bydlis?
-Zlin
-Dik Radek ted mam vsechny tvoje udaje:
-*****************
-Radek
-27
-Zlin
-*****************
+Example:<br />
+Ahoj jak se jmenujes?<br />
+Radek<br />
+V kterem roce jsi se narodil?<br />
+1988<br />
+Kde bydlis?<br />
+Zlin<br />
+Dik Radek ted mam vsechny tvoje udaje:<br />
+*****************<br />
+Radek<br />
+27<br />
+Zlin<br />
+*****************<br />
 
 
 #WarmUp
